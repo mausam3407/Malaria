@@ -1,4 +1,5 @@
-libsm6 \n
-libGL \n
-libfontconfig1 \n
-libice6 \n
+libsm6 "\n"
+libGL "\n"
+libxrender1 "\n"
+libfontconfig1 "\n"
+libice6 "\n"

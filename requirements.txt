@@ -2,5 +2,5 @@ pillow
 streamlit
 numpy
 pandas
-tflite_runtime
+tensorflow
 opencv-python

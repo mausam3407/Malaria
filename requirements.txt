@@ -3,4 +3,3 @@ streamlit
 numpy
 pandas
 tensorflow-cpu
-opencv-python-headless==4.2.0.32

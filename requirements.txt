@@ -1,6 +1,6 @@
-PIL
+pillow
 streamlit
 numpy
 pandas
-tensorflow
-cv2
+tensorflow-cpu
+opencv-python==4.2.0.34

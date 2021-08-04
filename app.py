@@ -71,7 +71,8 @@ if uploadFile is not None:
     super1 = do_salience(img,model,result)
     col2.subheader('Result')
     col2.image(super1,caption=text,use_column_width='always')
-    st.write('Part coloured with dark Purple/Whitish dots in result image shows the hotspots/ROI of cells')
+    st.write('Part coloured with dark Purple/Whitish dots in result image shows the hotspots/ROI of cell')
+    st.write("For codes click on this link: https://malaria-detector-with-salience.herokuapp.com/")
 else:
     col1.write("Make sure you image is in JPG/PNG Format.") 
     col2.write("Waiting for image")  
